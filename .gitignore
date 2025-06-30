@@ -1,0 +1,7 @@
+db.sqlite3
+.sql
+.env
+venv
+env
+__pycache__
+.coverage
